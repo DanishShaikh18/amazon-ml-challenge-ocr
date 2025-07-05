@@ -1,0 +1,10 @@
+numpy
+pandas
+opencv-python
+matplotlib
+seaborn
+pillow
+pytesseract
+easyocr
+requests
+python-dotenv
